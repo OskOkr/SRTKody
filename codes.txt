@@ -1,4 +1,4 @@
 godzillaMO;abc/def.srt
 godzillaMO2;abc/dea.srt
 loki;seriale/Loki
-mandalorian;seriale/Star Wars ꞉ The Mandalorian (2019-2023)
+mandalorianS01;seriale/Star Wars ꞉ The Mandalorian (2019-2023)/S01
