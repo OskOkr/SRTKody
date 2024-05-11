@@ -1,5 +1,4 @@
-godzillaMO;abc/def.srt
-godzillaMO2;abc/dea.srt
-loki;seriale/Loki/S01
-mandalorianS01;seriale/Star Wars ꞉ The Mandalorian (2019-2023)/S01
-test;testowy
+Godzilla Minus One 4K;1. 4K UHD/Godzilla Minus One (2023).srt
+Loki S01;1. 4K UHD/MARVEL/Loki (2021-2023)/S01
+Mandalorian S01;1. 4K UHD/GWIEZDNE WOJNY/Star Wars ꞉ The Mandalorian (2019-2023)/S01
+Misery;1. 4K UHD/Misery (1990).srt
